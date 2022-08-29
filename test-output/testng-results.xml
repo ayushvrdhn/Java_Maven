@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-29T10:36:07 IST" name="Default suite" finished-at="2022-08-29T10:36:18 IST" duration-ms="10189">
+    <groups>
+    </groups>
+    <test started-at="2022-08-29T10:36:07 IST" name="Default test" finished-at="2022-08-29T10:36:18 IST" duration-ms="10189">
+      <class name="Java_Maven.Java_Maven.sampleTest">
+        <test-method signature="openBrowser()[pri:0, instance:Java_Maven.Java_Maven.sampleTest@7fd50002]" started-at="2022-08-29T10:36:07 IST" name="openBrowser" finished-at="2022-08-29T10:36:18 IST" duration-ms="10102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- Java_Maven.Java_Maven.sampleTest -->
+      <class name="Java_Maven.Java_Maven.AppTest">
+        <test-method signature="testApp()[pri:0, instance:Java_Maven.Java_Maven.AppTest@6f53b8a]" started-at="2022-08-29T10:36:18 IST" name="testApp" finished-at="2022-08-29T10:36:18 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- Java_Maven.Java_Maven.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
